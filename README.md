@@ -1,6 +1,6 @@
-# 5619 Final Project Matthew Princev (Princ177)
+# VR Bowling Simulator
 
-## Project
+## Description
 A point-and-aim bowling game that takes traditional bowling and evolves it into a new game you can only experience in VR by launching bowling balls of different sizes and weights at pins
 
 ## Functionality
